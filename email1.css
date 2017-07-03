@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	text-align: center;
+}
+
+img {
+	border-style: double;
+}
+
+body {
+	background-image: url("http://wallpapercave.com/wp/i7sNwQL.jpg");
+}
+
+
+.container {
+  display: table;
+  width: 100%;
+}
+
+.left-half {
+  background-color: #51b7ad;
+  position: absolute;
+  left: 0px;
+  width: 50%;
+}
+
+.right-half {
+  background-color: #51b7ad;
+  position: absolute;
+  right: 0px;
+  width: 50%;
+}
+
+h2 {
+    font-family: "Futura", Times, serif;
+}
